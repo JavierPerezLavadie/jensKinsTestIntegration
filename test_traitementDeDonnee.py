@@ -1,5 +1,5 @@
 import unittest
-import client as client
+import clienty as client
 
 pathOfClientFile = "client.txt"
 
